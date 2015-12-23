@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Using a remote would be most effective when working in a team, or when you may operate from multiple devices, and you may need to access content created by you or others directly from GitHub
