@@ -16,4 +16,8 @@ Using branches are useful when experimenting with new features, especially large
 
 How do the diagrams help you visualize the branch structure?
 
-Diagrams helps to paint the picture of how each commit is related to another, and also helps to identify reachable commits from unreachable commits.
+Diagrams helps to paint the picture of how each commit is related to another, and also helps to identify reachable commits from unreachable commits
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches combines the changes made between the two branches. Showing this in a diagram helps to better visualize how the changes are handled, and how they are eventually combined together via the merge action
