@@ -5,3 +5,7 @@ Using a remote would be most effective when working in a team, or when you may o
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 this is critical to ensure you have control over the types of updates or code changes that happpen when working on your projects
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branches are used when creating new features, or fixing bugs, or when making changes that should not affect the master branch. A clone is used to copy a repositiory, either between git and github or from another location. Fork should be used when you do not have permissions to modify a repository, and to also give credit to the original source of the repository
