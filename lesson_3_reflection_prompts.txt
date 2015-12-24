@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 Using a remote would be most effective when working in a team, or when you may operate from multiple devices, and you may need to access content created by you or others directly from GitHub
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+this is critical to ensure you have control over the types of updates or code changes that happpen when working on your projects
