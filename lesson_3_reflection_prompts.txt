@@ -9,3 +9,7 @@ this is critical to ensure you have control over the types of updates or code ch
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Branches are used when creating new features, or fixing bugs, or when making changes that should not affect the master branch. A clone is used to copy a repositiory, either between git and github or from another location. Fork should be used when you do not have permissions to modify a repository, and to also give credit to the original source of the repository
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This helps to identify and resolve conflicts when updated commits are ahead, behind, out of date or out of sync with what is currently online.
