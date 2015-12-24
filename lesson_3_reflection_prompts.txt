@@ -17,3 +17,7 @@ This helps to identify and resolve conflicts when updated commits are ahead, beh
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Communication would mean alot of emails, using one file at a time, and potential chaos and time wasted waiting on on file to be free for editing. Git and GitHub makes collaboration easier, as mulitple persons can use the same files and make different changes all at the same time, and merge them at a later date, resolving any conflicts that are present
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+This should be done when creating new features, or making alterations or alternative options to what already exists in the master branch. Having branches helps to keep features and functionality in a centralized place where they can be merged at a leter date once agreed on.
