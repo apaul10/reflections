@@ -12,4 +12,8 @@ Branches are used when creating new features, or fixing bugs, or when making cha
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
-This helps to identify and resolve conflicts when updated commits are ahead, behind, out of date or out of sync with what is currently online.
+This helps to identify and resolve conflicts when updated commits are ahead, behind, out of date or out of sync with what is currently online
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Communication would mean alot of emails, using one file at a time, and potential chaos and time wasted waiting on on file to be free for editing. Git and GitHub makes collaboration easier, as mulitple persons can use the same files and make different changes all at the same time, and merge them at a later date, resolving any conflicts that are present
